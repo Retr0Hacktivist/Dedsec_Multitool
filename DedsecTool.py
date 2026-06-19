@@ -11,10 +11,9 @@ import shutil
 from pathlib import Path
 import platform
 import random
-import requests
+
 from datetime import datetime
 
-premiumkey = "ghKt34ffZRqgthqb57$?001"
 
 # ========== COULEURS STYLE E-DEX ==========
 class Colors:
